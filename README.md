@@ -86,7 +86,3 @@ This project is MIT licensed.
 ## 🙋‍♂️ Author
 
 GitHub: @rasta-dave
-
-```
-
-```
